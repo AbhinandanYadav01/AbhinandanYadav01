@@ -1,4 +1,4 @@
-# Hi 👋 I'm Abhinandan (Abhishek Yadav)
+# Hi 👋 I'm Abhinandan yadav (Abhishek)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekyadav-96&show_icons=true&theme=default)](https://github.com/abhishekyadav-96)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekyadav-96&layout=compact)](https://github.com/abhishekyadav-96)
